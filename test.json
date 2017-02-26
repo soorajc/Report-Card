@@ -1,0 +1,108 @@
+[
+
+   {
+      "name":"Sajin",
+      "rollno":"CS01",
+      "examdata":[
+         {
+            "year":"2011",
+            "month":"April",
+            "marks":[{"subject":"Maths", "score":"75"},{"subject":"Physics", "score":"89"},{"subject":"Biology", "score":"69"}, {"subject":"Chemistry", "score":"49"}]
+         },
+         {
+            "year":"2012",
+            "month":"June",
+            "marks":[{"subject":"Maths", "score":"51"},{"subject":"Physics", "score":"94"},{"subject":"Biology", "score":"47"}, {"subject":"Chemistry", "score":"61"}]
+         },
+         {
+            "year":"2013",
+            "month":"May",
+            "marks":[{"subject":"Maths", "score":"25"},{"subject":"Physics", "score":"75"},{"subject":"Biology", "score":"62"}, {"subject":"Chemistry", "score":"39"}]
+         }
+      ]
+   },
+   {
+      "name":"Anju",
+      "rollno":"CS02",
+      "examdata":[
+         {
+            "year":"2011",
+            "month":"April",
+            "marks":[{"subject":"Maths", "score":"11"},{"subject":"Physics", "score":"25"},{"subject":"Biology", "score":"42"}, {"subject":"Chemistry", "score":"89"}]
+         },
+         {
+            "year":"2012",
+            "month":"June",
+            "marks":[{"subject":"Maths", "score":"45"},{"subject":"Physics", "score":"79"},{"subject":"Biology", "score":"12"}, {"subject":"Chemistry", "score":"19"}]
+         },
+         {
+            "year":"2013",
+            "month":"May",
+            "marks":[{"subject":"Maths", "score":"38"},{"subject":"Physics", "score":"71"},{"subject":"Biology", "score":"12"}, {"subject":"Chemistry", "score":"39"}]
+         }
+      ]
+   },
+   {
+      "name":"Varun",
+      "rollno":"CS03",
+      "examdata":[
+         {
+            "year":"2011",
+            "month":"April",
+            "marks":[{"subject":"Maths", "score":"13"},{"subject":"Physics", "score":"29"},{"subject":"Biology", "score":"40"}, {"subject":"Chemistry", "score":"29"}]
+         },
+         {
+            "year":"2012",
+            "month":"June",
+            "marks":[{"subject":"Maths", "score":"53"},{"subject":"Physics", "score":"19"},{"subject":"Biology", "score":"34"}, {"subject":"Chemistry", "score":"49"}]
+         },
+         {
+            "year":"2013",
+            "month":"May",
+            "marks":[{"subject":"Maths", "score":"38"},{"subject":"Physics", "score":"19"},{"subject":"Biology", "score":"34"}, {"subject":"Chemistry", "score":"90"}]
+         }
+      ]
+   },
+   {
+      "name":"Nithya",
+      "rollno":"CS04",
+      "examdata":[
+         {
+            "year":"2011",
+            "month":"April",
+            "marks":[{"subject":"Maths", "score":"40"},{"subject":"Physics", "score":"51"},{"subject":"Biology", "score":"12"}, {"subject":"Chemistry", "score":"99"}]
+         },
+         {
+            "year":"2012",
+            "month":"June",
+            "marks":[{"subject":"Maths", "score":"85"},{"subject":"Physics", "score":"92"},{"subject":"Biology", "score":"25"}, {"subject":"Chemistry", "score":"10"}]
+         },
+         {
+            "year":"2013",
+            "month":"May",
+            "marks":[{"subject":"Maths", "score":"33"},{"subject":"Physics", "score":"71"},{"subject":"Biology", "score":"20"}, {"subject":"Chemistry", "score":"99"}]
+         }
+      ]
+   },
+   {
+      "name":"Jessy",
+      "rollno":"CS05",
+      "examdata":[
+         {
+            "year":"2011",
+            "month":"April",
+            "marks":[{"subject":"Maths", "score":"51"},{"subject":"Physics", "score":"21"},{"subject":"Biology", "score":"40"}, {"subject":"Chemistry", "score":"19"}]
+         },
+         {
+            "year":"2012",
+            "month":"June",
+            "marks":[{"subject":"Maths", "score":"95"},{"subject":"Physics", "score":"72"},{"subject":"Biology", "score":"92"}, {"subject":"Chemistry", "score":"49"}]
+         },
+         {
+            "year":"2013",
+            "month":"May",
+            "marks":[{"subject":"Maths", "score":"98"},{"subject":"Physics", "score":"72"},{"subject":"Biology", "score":"32"}, {"subject":"Chemistry", "score":"89"}]
+         }
+      ]
+   }
+]

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0-7fb9b7ec37404198049c9d2e2a5855db4d4ef9d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-6a3263247c5468259bae46d866acd8a52c3fce98.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-3f1cb549e24e5cc2979f175232c20bab982ece39.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-a8feac94f1b9b8c04b3f7001c4e143b00d6f613d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-afa3136f22fc1e3aaab80de4ab5a0a0f6bf38cbe.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-e2f7b6dc445fc06598513197d1304fea779aa121.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-b98421dc828b22c6f3ae0090eede00574db9eaa7.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-df0eae0e575b134f474c85eb17305c8919350fc6.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-b2a34d12ed33876b469fbff0ca55bcac13329cd7.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-4bc8809c9f4814940a9a63710b054ebb4a273983.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-1c8bd65b682638d6fdb8af08b001d99b632a0dc5.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-5f1dc6247310661333cc83aa089f620427f64f04.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-23da0362e05f09e29165ea7ada647fd05b355f68.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-c8ca026cd84357dfcc5a47c92d9de8305d0ca89e.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-661a4de5d51f89dad3bc4e7def916d7cc9905c37.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-8153f4810fd854c8522b05f78324f96ffe05f3e2.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-82e1c73e030589b9120de1cc38b17cbaccf70313.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-f32bc33ae4c51022ee84aa39dcf4945c688907ff.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-df6a829b86cea8953d8c075643b23db9f54ca216.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-b66dde12cec11c6933a2aac1899d7f8b1105bfb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-63bea5a0652b44383e15ff388019d2a9c8b8c271.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-f2f5edf9bcbb22df465833945de254f33a1e545c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-68127c32aa464f43d88ce44ba7336d54a06e59d1.jar" />
+    </item>
+    <item
+        jar="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="E:\LiftOffLLC\Student\reportapp\android\app\build\intermediates\pre-dexed\debug\classes-1faaf227f0b6e01e613f4daf0eab09da54119b6d.jar" />
+    </item>
+
+</items>
